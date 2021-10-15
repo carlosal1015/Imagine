@@ -23,7 +23,6 @@
   "license": "ISC",
   "devDependencies": {
     "@pmmmwh/react-refresh-webpack-plugin": "^0.4.3",
-    "@types/classnames": "^2.2.11",
     "@types/electron-devtools-installer": "~2.2.0",
     "@types/fs-extra": "^9.0.7",
     "@types/jest": "^26.0.20",
